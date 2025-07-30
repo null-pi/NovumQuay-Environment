@@ -1,4 +1,4 @@
-FROM novumquay-environment-browser:latest
+FROM novumquay/environment-browser:latest
 
 # Set the working directory
 WORKDIR /app
